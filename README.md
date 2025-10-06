@@ -45,5 +45,7 @@ Overall, this task gave me practical experience in real-world API usage and taug
    
 4. View the output graphs and results in your terminal or as saved files.
 ## Output
-
+<img width="1918" height="1076" alt="Image" src="https://github.com/user-attachments/assets/bd5a613a-d5f3-4082-a33f-dcd9afd399e2" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d805cb84-4e2a-430a-b579-ae7c9fb0877f" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/8af655d9-fd30-448c-b82d-9ed9ebf75faf" />
 
